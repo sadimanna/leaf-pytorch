@@ -1,4 +1,4 @@
-# LEAF: A Benchmark for Federated Settings
+# LEAF: A Benchmark for Federated Settings in PyTorch (Coming soon...)
 
 ## Resources
 
